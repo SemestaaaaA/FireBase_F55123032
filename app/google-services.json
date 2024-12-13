@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631261964474",
+    "project_id": "fir-f55123032-a7eee",
+    "storage_bucket": "fir-f55123032-a7eee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631261964474:android:a1e2e298c1227629f7fa83",
+        "android_client_info": {
+          "package_name": "com.semesta.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFqV8CLt9LHUpLllTPa-Bz_VL6dLIpnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
